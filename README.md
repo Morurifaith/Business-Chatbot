@@ -1,6 +1,6 @@
 # Business-Chatbot
 Business Chatbot
-This is a simple chatbot designed to help businesses automate customer interactions and increase engagement. The bot is built using Python and uses the Flask framework to handle incoming messages and generate responses.
+A chatbot is a computer program that can converse with humans using artificial intelligence inmessaging platforms. This is a simple chatbot designed to help businesses automate customer interactions and increase engagement. The bot is built using Python and uses the Flask framework to handle incoming messages and generate responses.
 
 Getting Started
 To use the chatbot, you will need to install the required packages and set up a Facebook Messenger account to connect with customers.
